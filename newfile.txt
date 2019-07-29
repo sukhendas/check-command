@@ -1,5 +1,2 @@
 This file is for testing command line purpose i.e. uploading adding and all the different stuff.
 This is the new line adding to this file.
-
-
-This line has been added by Sukhen Das.
